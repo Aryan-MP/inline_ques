@@ -1,3 +1,3 @@
 Please answer the following question
-<question source="../inline_ques/ques/3.md" />
+<question source="https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques/3.md" />
 
