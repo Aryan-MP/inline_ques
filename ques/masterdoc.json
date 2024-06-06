@@ -10,14 +10,7 @@
         },
         {
           "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques2.md",
-          "Order": 2,
-          "UnlockingRules": [
-          {
-            "UnlockDependency": "Questions",
-            "DependentQuestions": [ "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques/1.md" ],
-            "UnlockCriteria": "Answered",
-          }
-        ]
+          "Order": 2
         },
         {
             "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques3.md",
