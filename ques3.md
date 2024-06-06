@@ -1,3 +1,3 @@
 Please answer the following question
-<question source="../ques/3.md" />
+<question source="../inline_ques/ques/3.md" />
 
