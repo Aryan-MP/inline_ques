@@ -14,7 +14,7 @@
           "UnlockingRules": [
           {
             "UnlockDependency": "Questions",
-            "DependentQuestions": [ "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques1.md" ],
+            "DependentQuestions": [ "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques/1.md" ],
             "UnlockCriteria": "Answered",
           }
         ]
@@ -25,7 +25,7 @@
             "UnlockingRules": [
           {
             "UnlockDependency": "Questions",
-            "DependentQuestions": [ "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques2.md" ],
+            "DependentQuestions": [ "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques/2.md" ],
             "UnlockCriteria": "Answered",
           }
         ]
