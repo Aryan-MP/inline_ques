@@ -10,11 +10,25 @@
         },
         {
           "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques2.md",
-          "Order": 2
+          "Order": 2,
+          "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [ "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques1.md" ],
+            "UnlockCriteria": "Answered",
+          }
+        ]
         },
         {
             "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques3.md",
-            "Order": 3
+            "Order": 3,
+            "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [ "https://raw.githubusercontent.com/Aryan-MP/inline_ques/main/ques2.md" ],
+            "UnlockCriteria": "Answered",
+          }
+        ]
         }
       ]
     }
